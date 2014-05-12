@@ -1,4 +1,4 @@
-name: Between Bastion and Butress
+name: Between Bastion and Buttress
 description: "Code, Cloud Computing, Community and Common Sense"
 meta_description:
 github: rdodev
@@ -10,5 +10,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'rdodev.github.io'
+author:         'Ruben Orduz'
