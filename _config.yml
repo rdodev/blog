@@ -1,9 +1,11 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Between Bastion and Butress
+description: "Code, Cloud Computing, Community and Common Sense"
+meta_description:
+github: rdodev
+twitter: WallOfFire
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 logo: false
 paginate: 15
 
