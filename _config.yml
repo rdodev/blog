@@ -3,7 +3,8 @@ description: "Code, Cloud Computing, Community and Common Sense"
 github: rdodev
 twitter: WallOfFire
 
-markdown: kramdown
+kramdown:
+ input: GFM
 highlighter: pygments
 logo: false
 paginate: 15
