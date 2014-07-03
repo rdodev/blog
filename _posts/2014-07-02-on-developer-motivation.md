@@ -10,6 +10,7 @@ categories:
 ###### Preface
 As is usual for these types of posts, I'd like to preface this blog entry with the caveat that the thoughts, situations and anecdotes below are not meant to specifically call someone out or as a backhanded or passive-aggressive way to express discontent. These are simply the accumulation, amalgamation and distillation of my many experiences in the matter with different teams, contexts, and management.
 <!-- more -->
+
 ###### The Motivation "issue"
 Throughout my career I have observed and experienced many times management incorrectly assuming that lackluster team productivity or "not firing on all cylinders" is caused by an overall team-wide lack of motivation. The mistake is that lack of motivation is not the cause, is a symptom, at best. Sometimes it's not even a lack of motivation, but a case low morale -- which is not the same. The majority of times not much time or effort is devoted to trying to find the root cause of the perceived "slump" and very often hasty measures are taken that end up causing more harm than good.
 
