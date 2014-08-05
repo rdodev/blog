@@ -9,6 +9,8 @@ categories:
 ---
 As co-chair of PyCon tutorials I get asked fairly often (by both seasoned and novice speakers) for ideas for tutorial proposals. So, in order to make this fair so that anyone tempted to submit a tutorial proposal can take them into consideration, I'm putting these out there for inspiration, if nothing else. Please bear in mind that unlike talks at PyCon, our tutorial format consist of 3-hour sessions with a heavy emphasis on hands-on, applicable, practical and highly interactive approach.
 
+<!-- more -->
+
 NOTE: Before we go any further, though, I want to make something explicit and abundantly clear: I *do not* select what proposals get chosen. In fact, I try to abstain from voting on proposals altogether, only stepping in as tie breaker, if need be. We have a committee and subject matter experts that will review and vote on proposals. We want the process to be very transparent and we're very welcoming, so we encourage anyone interested in the inner workings of our committee to join and be part of it. Ping me @walloffire if you are interested.
 
 So, here are some subject and ideas to consider (in no particular order):
