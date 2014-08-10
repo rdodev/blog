@@ -17,3 +17,4 @@ excerpt_separator: "<!-- more -->"
 # Details for the RSS feed generator
 url: /
 author: 'Ruben Orduz'
+rss_post_limit: 5
