@@ -1,5 +1,6 @@
 name: Between Bastion and Buttress
 description: "Code, Cloud Computing, Community and Common Sense"
+baseurl: /
 github: rdodev
 twitter: WallOfFire
 
@@ -14,5 +15,5 @@ permalink: posts/:title
 excerpt_separator: "<!-- more -->"
 
 # Details for the RSS feed generator
-url:            'blog.such.computer'
-author:         'Ruben Orduz'
+url: /
+author: 'Ruben Orduz'
