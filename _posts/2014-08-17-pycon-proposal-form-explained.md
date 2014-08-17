@@ -11,6 +11,7 @@ One of the most common questions we get, as organizers, is how does the proposal
 
 <!-- more -->
 
+> The abstract should be a short description of what you're going to talk about, and what you hope people leaving your talk will be able to take away from it.
 > The outline can vary somewhat in detail. The point is that the program committee members need to understand the structure of your talk. If you structure the outline (e.g. nested lists), more detail is probably better because we can stop reading once we feel we have a good grasp. It definitely should not be a line-for-line of your talk; but definitely the major parts, and preferably the sub-parts as well. Don't forget to include timing estimates. Example:
 > 
 > Introduction to quantum transmogrification with Python
