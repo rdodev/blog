@@ -9,6 +9,8 @@ categories:
 ---
 One of the most common questions we get, as organizers, is how does the proposal submission form work, what do all the fields mean, and what are our expectations. Although there are subtle but important differences between the main conference program committee (talks) and the tutorials committee, the explanation below and description of fields and expectations applies to both. One of the main people involved in the conference organizing committee (among a bunch of other important Python things), [Laurens Van Houtven](https://twitter.com/lvh), has eloquently summarized it as follows:
 
+<!-- more -->
+
 > The outline can vary somewhat in detail. The point is that the program committee members need to understand the structure of your talk. If you structure the outline (e.g. nested lists), more detail is probably better because we can stop reading once we feel we have a good grasp. It definitely should not be a line-for-line of your talk; but definitely the major parts, and preferably the sub-parts as well. Don't forget to include timing estimates. Example:
 > 
 > Introduction to quantum transmogrification with Python
