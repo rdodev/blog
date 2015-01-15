@@ -17,7 +17,7 @@ I've considered many facets of my life: professional, personal, family, hobbies,
   If so, do I have an end-game plan Y? 
       If so, am I in the path to Y?
       If not, do I need an end-game plan or do I need to change paths?
-  If not, why am I doing it?
+  If not, why am I doing X?
 
 ```
 
