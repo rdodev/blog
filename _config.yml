@@ -10,7 +10,7 @@ kramdown:
 highlighter: pygments
 logo: false
 paginate: 15
-relative_permalinks: false
+relative_permalinks: true
 permalink: /blog/posts/:title
 excerpt_separator: "<!-- more -->"
 
