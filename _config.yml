@@ -11,7 +11,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 relative_permalinks: true
-permalink: /posts/:title
+permalink: posts/:title
 excerpt_separator: "<!-- more -->"
 
 # Details for the RSS feed generator
