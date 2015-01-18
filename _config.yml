@@ -16,5 +16,5 @@ excerpt_separator: "<!-- more -->"
 
 # Details for the RSS feed generator
 author: 'Ruben Orduz'
-rss_post_limit: 5
+rss_path: ../
 url: https://blog.such.computer

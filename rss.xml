@@ -57,6 +57,95 @@
       <pubDate>Wed, 08 Oct 2014 22:45:00 -0400</pubDate>
       <dc:date>2014-10-08T22:45:00-04:00</dc:date>
     </item>
+    <item>
+      <title>PyCon Proposal Form Explained</title>
+      <link>https://blog.such.computer/posts/pycon-proposal-form-explained</link>
+      <description>&lt;p&gt;One of the most common questions we get, as organizers, is how does the proposal submission form work, what do all the fields mean, and what are our expectations. Although there are subtle but important differences between the main conference program committee (talks) and the tutorials committee, the explanation below and description of fields and expectations applies to both. One of the main people involved in the conference organizing committee (among a bunch of other important Python things), &lt;a href=&quot;https://twitter.com/lvh&quot;&gt;Laurens Van Houtven&lt;/a&gt;, has eloquently summarized it as follows:&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 17 Aug 2014 17:45:00 -0400</pubDate>
+      <dc:date>2014-08-17T17:45:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>My Adventures With JavaScript This Week</title>
+      <link>https://blog.such.computer/posts/my-adventures-with-js-this-week</link>
+      <description>&lt;p&gt;In spite of having programed JS for nearly two decades – to varying degrees, of course: from fiddling with my Geocities home page to full-time front-end development –, it’s one of those languages that tends to break away from the norm, usually not in the expected way. Which is why lately I’ve made a point to RTFM every time I bump into an issue or bug I suspect the language definition has something to do with it. &lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 09 Aug 2014 11:45:00 -0400</pubDate>
+      <dc:date>2014-08-09T11:45:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Here Are Some Ideas for Your PyCon 2015 Tutorial Proposals</title>
+      <link>https://blog.such.computer/posts/here-are-some-ideas-for-your-pycon-2015-tut-proposals</link>
+      <description>&lt;p&gt;As co-chair of PyCon tutorials I get asked fairly often (by both seasoned and novice speakers) for ideas for tutorial proposals. So, in order to make this fair so that anyone tempted to submit a tutorial proposal can take them into consideration, I’m putting these out there for inspiration, if nothing else. Please bear in mind that unlike talks at PyCon, our tutorial format consist of 3-hour sessions with a heavy emphasis on hands-on, applicable, practical and highly interactive approach.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 05 Aug 2014 11:45:00 -0400</pubDate>
+      <dc:date>2014-08-05T11:45:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>A Little South of Perfection: Idealism vs. Pragmatism</title>
+      <link>https://blog.such.computer/posts/a-little-south-of-perfection</link>
+      <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;small&gt;Originally posted on: 2012-08-11 on my legacy &lt;a href=&quot;http://ruben.orduz.info/2012/08/a-little-south-of-perfection-idealism.html&quot;&gt;blog&lt;/a&gt;. &lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, I woke up this morning musing about idealism vs. pragmatism in the field of software development – but it also applies elsewhere. Many of us at some point or another have had ideas, concepts, visions for a product, bug fix, enhancement and so forth. Whether due to nature or nurture, we tend to strive for perfection, but that’s a lofty (and often impossible) goal to attain and one that’s likely to discourage you somewhere along the way.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 17 Jul 2014 16:50:00 -0400</pubDate>
+      <dc:date>2014-07-17T16:50:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>On Developer Motivation</title>
+      <link>https://blog.such.computer/posts/on-developer-motivation</link>
+      <description>&lt;h6 id=&quot;preface&quot;&gt;Preface&lt;/h6&gt;
+&lt;p&gt;As is usual for these types of posts, I’d like to preface this blog entry with the caveat that the thoughts, situations and anecdotes below are not meant to specifically call someone out or as a backhanded or passive-aggressive way to express discontent. These are simply the accumulation, amalgamation and distillation of my many experiences in the matter with different teams, contexts, and management.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 02 Jul 2014 20:55:00 -0400</pubDate>
+      <dc:date>2014-07-02T20:55:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>PyCon Tutorial Committee Wants You</title>
+      <link>https://blog.such.computer/posts/pycon-wants-you</link>
+      <description>&lt;p&gt;Every year the PyCon Tutorials Committee is in charge of evaluating, selecting and organizing all the tutorials that take place every year (usually two days and take place right before the conference proper starts). We have to go through tens, if not hundreds, of tutorial proposals spanning a plethora of subject matters.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 01 Jul 2014 09:55:00 -0400</pubDate>
+      <dc:date>2014-07-01T09:55:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>The Perils of No Immediate Reply</title>
+      <link>https://blog.such.computer/posts/the-perils-of-no-reply</link>
+      <description>&lt;h6 id=&quot;preface&quot;&gt;Preface&lt;/h6&gt;
+&lt;p&gt;One of the things that the pervades today’s professional life is using email as the main means of communication – specially true for geographically-distributed teams. In spite of all of its merits, email, like any asynchronous form of communication, has a “perceived latency” issue which if not well understood can be a cause of frustration and friction amongst those involved.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 25 Jun 2014 09:55:00 -0400</pubDate>
+      <dc:date>2014-06-25T09:55:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Managing Developer Me</title>
+      <link>https://blog.such.computer/posts/managing-developer-me</link>
+      <description>&lt;h6 id=&quot;preface&quot;&gt;Preface&lt;/h6&gt;
+&lt;p&gt;First I want to make abundantly clear that this isn’t a back-handed, passive-aggressive way to express my gripes about a specific incident or manager, about my former or present employeer. I would say it’s about the accumulation of facts and experiences in my career up to this point. It is by no means a comprehensive, exhaustive collection, though, only those that I know have had a definite impact in my career.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 24 May 2014 13:48:00 -0400</pubDate>
+      <dc:date>2014-05-24T13:48:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>The Reboot!</title>
+      <link>https://blog.such.computer/posts/the-reboot</link>
+      <description>&lt;p&gt;So, this is, by my count, the third time I’ve “rebooted” my personal blog.&lt;br /&gt;
+You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog&lt;/a&gt; out, if you want. If not, no big loss as I’ll probably be cross-referencing posts there if they are relevant.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
+      <dc:date>2014-05-12T14:05:00-04:00</dc:date>
+    </item>
     <dc:date>2015-01-14T00:00:00-05:00</dc:date>
   </channel>
 </rss>
