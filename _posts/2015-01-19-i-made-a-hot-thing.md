@@ -16,9 +16,11 @@ Why is it a "HOT" thing, you may ask? Well, for one, it makes a catchier title a
 The overarching theme and philosophy of this app is one of lowering entry barriers and insuring, in as much as possible, positive outcomes.
 
 #### Lowering Entry Barriers
-Currently one of the main issues Rackspace Orchestration has is that in order to begin the user needs to install and setup an API client in their computer, then dive in the documentation or sample files that are hard to generalize. Unlike AWS's CloudFormation, as of this writing Rackspace Orchestration doesn't offer a static list of resources it offers nor proper documentation for it. For a developer who has a strong reason to learn it, these obstacles might not seem all that steep; however, for someone who's merely curious, those same obstacles will likely be a bit too much and simply lose interest in the process. With Foundry there are only two things a user needs:
+Currently one of the main issues Rackspace Orchestration has is that in order to begin the user needs to install and setup an API client in their computer, then dive in the documentation or sample files that are hard to generalize. Unlike AWS's CloudFormation, as of this writing, Rackspace Orchestration doesn't offer a static list of resources it offers through Orchestration nor proper documentation for it. For a developer who has a strong reason to learn it, these obstacles might not seem all that steep; however, for someone who's merely curious, those same obstacles will likely be a bit too much and simply lose interest in the process. With Foundry there are _only_ two things a user needs:
+
   - A modern web browser
   - A Rackspace account with control panel access
+
 that's it.
 
 #### Positive Outcomes
