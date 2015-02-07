@@ -2,7 +2,7 @@ name: Between Bastion and Buttress
 description: "Code, Cloud Computing, Community and Common Sense"
 baseurl: https://blog.such.computer
 github: rdodev
-twitter: WallOfFire
+twitter: MassHaste
 
 markdown: kramdown
 kramdown:
