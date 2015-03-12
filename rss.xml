@@ -8,7 +8,16 @@
     <title>Between Bastion and Buttress</title>
     <link>https://blog.such.computer</link>
     <description>Code, Cloud Computing, Community and Common Sense</description>
-    <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
+    <item>
+      <title>Don't Train Like You'd Like To Race</title>
+      <link>https://blog.such.computer/posts/dont-train-like-you-race</link>
+      <description>&lt;p&gt;One of the most often-repeated and professed concepts of distance running goes something like this: “train like you’d want to race, race just like you trained”. While there are good reasons why that advice is often given (specially for beginners), in reality that mindset could hinder your progress and performance at best and at worst could cause burn-out or perhaps even injuries. Please note this blog post is not targeted at first- or second-time marathon runners, but definitely usable by people who self identify as “intermediate” runners (myself included) and more advanced folks.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
+      <dc:date>2015-03-12T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>Working From Home</title>
       <link>https://blog.such.computer/posts/working-from-home</link>
@@ -164,6 +173,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-02-17T00:00:00-05:00</dc:date>
+    <dc:date>2015-03-12T00:00:00-04:00</dc:date>
   </channel>
 </rss>
