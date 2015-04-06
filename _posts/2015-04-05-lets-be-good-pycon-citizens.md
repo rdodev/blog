@@ -28,4 +28,4 @@ There will be people from all walks of life, with different religious beliefs (o
 This one is so simple to follow, but often forgotten, unfortunately. Be a good guest in the conference venue, your hotel and the city PyCon is hosted in. Follow their rules and their cultural pace.
 
 
-To summarize: the community around PyCon is simply amazing and all of us need to pitch in (whether in effort or behavior) in order to keep it healthy and growing.s
+To summarize: the community around PyCon is simply amazing and all of us need to pitch in (whether in effort or behavior) in order to keep it healthy and growing.
