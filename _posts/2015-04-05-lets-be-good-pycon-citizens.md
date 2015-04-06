@@ -18,7 +18,7 @@ So, here are my thoughts what makes a good PyCon citizen:
 #### Be kind
 This doesn't mean you have to be a push-over or that you have to be fake nice or flaky. I means to be nice to people, to empathize with them and/or, at the very least, be mindful and respectful toward them.
 
-#### Be patient
+#### Be patient and empathetic
 It's a *huge* conference wholly organized and ran by volunteers. From top to bottom everyone involved is a volunteer and we do our darn best to put up an amazing conference for the benefit of the whole community. But we only have so many resources and unforeseen events can happen i.e. someone who volunteered to lead activity X got food poisoning and now there's a long line for it, just as an example. So, please be mindful of all the effort that it takes to plan and run the conference and be extra patient when things aren't as fast or readily available as you'd like.
 
 #### Be respectful
@@ -28,4 +28,4 @@ There will be people from all walks of life, with different religious beliefs (o
 This one is so simple to follow, but often forgotten, unfortunately. Be a good guest in the conference venue, your hotel and the city PyCon is hosted in. Follow their rules and their cultural pace.
 
 
-To summarize: the community around PyCon is simply amazing and all of us need to pitch in (whether in effort or behavior) in order to keep it healthy and growing.
+To summarize: the community around PyCon is simply amazing and all of us need to pitch in (whether in effort or behavior) in order to keep it healthy and growing.s
