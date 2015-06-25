@@ -8,7 +8,16 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Sun, 31 May 2015 00:00:00 -0400</pubDate>
+    <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+    <item>
+      <title>tail -f twitter-timeline  2&amp;&gt;1 &gt; /dev/null</title>
+      <link>https://blog.such.computer/posts/tail--f-twitter-timeline--21--devnull</link>
+      <description>&lt;p&gt;I want to begin by saying that Twitter &lt;em&gt;can&lt;/em&gt; be a great social tool and I have certainly leveraged it that way in many ocassions. But generally speaking twitter has become the outlet of choice for rage, discontent and passive agression for the “twitter collective”, if you will. While it’s a &lt;em&gt;good&lt;/em&gt; thing that everyone has a voice in twitter, that tends to become a place of churning strife and conflict.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+      <dc:date>2015-06-25T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>Replacing iOS Photo Backup with Google Photos</title>
       <link>https://blog.such.computer/posts/replacing-ios-photo-backup-with-google-photos</link>
@@ -211,6 +220,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-05-31T00:00:00-04:00</dc:date>
+    <dc:date>2015-06-25T00:00:00-04:00</dc:date>
   </channel>
 </rss>
