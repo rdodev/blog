@@ -25,6 +25,5 @@ With that in mind, we then flatten the trinity as shown below. The Product Dicho
 
 ![](/assets/images/2015-06-27-simplifying-the-trinity/dichotomy.png)
 
-It's worth noting in the above diagram "cheap" encompasses resource cost and scheduling.
 
 The choice is yours: you build a product your users _want_ or _like_ to use or a product they will jump ship from as soon as they find a suitable alternative.

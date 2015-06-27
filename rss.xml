@@ -8,11 +8,22 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+    <pubDate>Sat, 27 Jun 2015 07:24:36 -0400</pubDate>
+    <item>
+      <title>Simplifying The Trinity</title>
+      <link>https://blog.such.computer/posts/simplifying-the-trinity</link>
+      <description>&lt;p&gt;For those of us working on product development or project work, we’ve seen a diagram like the one below at some point in our careers:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2015-06-27-simplifying-the-trinity/trinity.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 27 Jun 2015 07:24:36 -0400</pubDate>
+      <dc:date>2015-06-27T07:24:36-04:00</dc:date>
+    </item>
     <item>
       <title>tail -f twitter-timeline  2&amp;&gt;1 &gt; /dev/null</title>
       <link>https://blog.such.computer/posts/tail--f-twitter-timeline--21--devnull</link>
-      <description>&lt;p&gt;I want to begin by saying that Twitter &lt;em&gt;can&lt;/em&gt; be a great social tool and I have certainly leveraged it that way in many ocassions. But generally speaking twitter has become the outlet of choice for rage, discontent and passive agression for the “twitter collective”, if you will. While it’s a &lt;em&gt;good&lt;/em&gt; thing that everyone has a voice in twitter, that tends to become a place of churning strife and conflict.&lt;/p&gt;
+      <description>&lt;p&gt;I want to begin by saying that Twitter &lt;em&gt;can&lt;/em&gt; be a great social tool and I have certainly leveraged it that way in many occasions for work, for socializing, for coercing customer service, etc.. But generally speaking twitter has become the outlet of choice for rage, discontent and passive aggression for the “twitter collective”, if you will. While it’s a &lt;em&gt;good&lt;/em&gt; thing that everyone has a voice in twitter, that collective of voices, unfortunately, tends to become a place of churning strife, outrage and conflict.&lt;/p&gt;
 
 </description>
       <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
@@ -220,6 +231,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-06-25T00:00:00-04:00</dc:date>
+    <dc:date>2015-06-27T07:24:36-04:00</dc:date>
   </channel>
 </rss>
