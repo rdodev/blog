@@ -30,15 +30,6 @@
       <dc:date>2015-06-27T07:24:36-04:00</dc:date>
     </item>
     <item>
-      <title>tail -f twitter-timeline  2&amp;&gt;1 &gt; /dev/null</title>
-      <link>https://blog.such.computer/posts/tail--f-twitter-timeline--21--devnull</link>
-      <description>&lt;p&gt;I want to begin by saying that Twitter &lt;em&gt;can&lt;/em&gt; be a great social tool and I have certainly leveraged it that way in many occasions for work, for socializing, for coercing customer service, etc.. But generally speaking twitter has become the outlet of choice for rage, discontent and passive aggression for the “twitter collective”, if you will. While it’s a &lt;em&gt;good&lt;/em&gt; thing that everyone has a voice in twitter, that collective of voices, unfortunately, tends to become a place of churning strife, outrage and conflict.&lt;/p&gt;
-
-</description>
-      <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
-      <dc:date>2015-06-25T00:00:00-04:00</dc:date>
-    </item>
-    <item>
       <title>Replacing iOS Photo Backup with Google Photos</title>
       <link>https://blog.such.computer/posts/replacing-ios-photo-backup-with-google-photos</link>
       <description>&lt;p&gt;Ever since the introduction of iOS Photo Library backup (since iOS 8.1, I believe), I’ve been trying to use it with mixed results.&lt;/p&gt;
