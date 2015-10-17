@@ -27,6 +27,8 @@ Now, as far as the foundation goes, I feel there was, as of eight months ago (st
 
 #### Can The Foundation Be Fixed?
 
-This is an honest question I have. On one hand having experienced the politics at play, the seeming direction-less multi-vision (i.e. going nowhere because of many conflicting visions for the product), and the bureaucracy within it, one would think the only hope would be to dismantle and start fresh with a new charter and by-laws. On the other hand, I have seen small, slow but important steps towards making the foundation more purposeful and efficient, so perhaps there is a way to root out most of the politics and instate more sane technical direction and provide the product with a long term vision and mission.
+This is an honest question I have. On one hand having experienced the politics at play, the seeming direction-less multi-vision (i.e. going nowhere because of many conflicting visions for the product), the bureaucracy within it, and seeing ranking or founding members denounce and [give up on OpenStack](https://twitter.com/jmckenty/status/601202657676566528) one would think the only hope would be to dismantle and start fresh with a new charter and by-laws.
+
+On the other hand, I have seen and heard of small, slow but important steps towards making the foundation more purposeful and efficient, so perhaps there is a way to root out most of the politics and instate more sane technical direction and provide the product with a long term vision and mission.
 
 I presently do not have a dog in that fight, but I'd like to encourage the many users and contributors that remain in the sidelines to get involved and elicit change that will make dealing with the foundation a more pleasant and productive experience.
