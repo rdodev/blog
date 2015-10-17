@@ -8,7 +8,20 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Sat, 17 Oct 2015 08:33:44 -0400</pubDate>
+    <pubDate>Sat, 17 Oct 2015 14:15:24 -0400</pubDate>
+    <item>
+      <title>The Duality of OpenStack</title>
+      <link>https://blog.such.computer/posts/the-duality-of-openstack</link>
+      <description>&lt;p&gt;Recently I’ve had a flurry of brief but interesting conversations with colleagues and other cloud people about OpenStack. Mostly surrounding the open-ended question:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What do you think about OpenStack?&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <pubDate>Sat, 17 Oct 2015 14:15:24 -0400</pubDate>
+      <dc:date>2015-10-17T14:15:24-04:00</dc:date>
+    </item>
     <item>
       <title>A Brief Monologue About Date Input Fields</title>
       <link>https://blog.such.computer/posts/a-brief-monologue-about-date-form-fields</link>
@@ -240,6 +253,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-10-17T08:33:44-04:00</dc:date>
+    <dc:date>2015-10-17T14:15:24-04:00</dc:date>
   </channel>
 </rss>
