@@ -8,7 +8,16 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Sat, 26 Sep 2015 06:00:09 -0400</pubDate>
+    <pubDate>Sat, 17 Oct 2015 08:33:44 -0400</pubDate>
+    <item>
+      <title>A Brief Monologue About Date Input Fields</title>
+      <link>https://blog.such.computer/posts/a-brief-monologue-about-date-form-fields</link>
+      <description>&lt;p&gt;Of the many UI/UX anti-patterns you see out there in the world today, not very many come close to the level of frustration caused by date fields in forms. This frustration has two facets for me: as the end-user and as UX person.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 17 Oct 2015 08:33:44 -0400</pubDate>
+      <dc:date>2015-10-17T08:33:44-04:00</dc:date>
+    </item>
     <item>
       <title>For A More Optimal Experience</title>
       <link>https://blog.such.computer/posts/for-a-more-optimal-experience</link>
@@ -231,6 +240,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-09-26T06:00:09-04:00</dc:date>
+    <dc:date>2015-10-17T08:33:44-04:00</dc:date>
   </channel>
 </rss>
