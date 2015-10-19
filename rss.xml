@@ -8,7 +8,16 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Sat, 17 Oct 2015 14:15:24 -0400</pubDate>
+    <pubDate>Sun, 18 Oct 2015 07:04:54 -0400</pubDate>
+    <item>
+      <title>UX In The Command Line, part I</title>
+      <link>https://blog.such.computer/posts/ux-in-the-command-line</link>
+      <description>&lt;p&gt;This is a blog post that I’ve been meaning to write for at least a year (likely longer than that), but for any number of reasons I never got around to sit down and actually write it. This is the first of a few posts in this particular subject that it’s so important and relevant to &lt;em&gt;ALL&lt;/em&gt; developers, yet often neglected in practice: command line interface user experience. In this installment, I will deal mostly with the hand-wavy aspects of the subject, while following installments will consist mostly of practical and technical content.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 18 Oct 2015 07:04:54 -0400</pubDate>
+      <dc:date>2015-10-18T07:04:54-04:00</dc:date>
+    </item>
     <item>
       <title>The Duality of OpenStack</title>
       <link>https://blog.such.computer/posts/the-duality-of-openstack</link>
@@ -253,6 +262,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-10-17T14:15:24-04:00</dc:date>
+    <dc:date>2015-10-18T07:04:54-04:00</dc:date>
   </channel>
 </rss>
