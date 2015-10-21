@@ -8,7 +8,16 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Sun, 18 Oct 2015 07:04:54 -0400</pubDate>
+    <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+    <item>
+      <title>Your Docs Are Your Code</title>
+      <link>https://blog.such.computer/posts/the-docs-are-your-code</link>
+      <description>&lt;p&gt;This post will be a brief one with a simple yet powerful thesis: your code’s docs &lt;em&gt;are&lt;/em&gt; your code.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      <dc:date>2015-10-20T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>UX In The Command Line, part I</title>
       <link>https://blog.such.computer/posts/ux-in-the-command-line</link>
@@ -262,6 +271,6 @@ You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog
       <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
       <dc:date>2014-05-12T14:05:00-04:00</dc:date>
     </item>
-    <dc:date>2015-10-18T07:04:54-04:00</dc:date>
+    <dc:date>2015-10-20T00:00:00-04:00</dc:date>
   </channel>
 </rss>
