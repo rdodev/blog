@@ -8,15 +8,15 @@
     <title>Run, Code, Run</title>
     <link>https://blog.such.computer</link>
     <description>Common Sense Above All Else</description>
-    <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+    <pubDate>Tue, 20 Oct 2015 00:00:00 -0700</pubDate>
     <item>
       <title>Your Docs Are Your Code</title>
       <link>https://blog.such.computer/posts/the-docs-are-your-code</link>
       <description>&lt;p&gt;This post will be a brief one with a simple yet powerful thesis: your code’s docs &lt;em&gt;are&lt;/em&gt; your code.&lt;/p&gt;
 
 </description>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
-      <dc:date>2015-10-20T00:00:00-04:00</dc:date>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0700</pubDate>
+      <dc:date>2015-10-20T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>The Duality of OpenStack</title>
@@ -28,8 +28,8 @@
 &lt;/ul&gt;
 
 </description>
-      <pubDate>Sat, 17 Oct 2015 14:15:24 -0400</pubDate>
-      <dc:date>2015-10-17T14:15:24-04:00</dc:date>
+      <pubDate>Sat, 17 Oct 2015 11:15:24 -0700</pubDate>
+      <dc:date>2015-10-17T11:15:24-07:00</dc:date>
     </item>
     <item>
       <title>A Brief Monologue About Date Input Fields</title>
@@ -37,8 +37,8 @@
       <description>&lt;p&gt;Of the many UI/UX anti-patterns you see out there in the world today, not very many come close to the level of frustration caused by date fields in forms. This frustration has two facets for me: as the end-user and as UX person.&lt;/p&gt;
 
 </description>
-      <pubDate>Sat, 17 Oct 2015 08:33:44 -0400</pubDate>
-      <dc:date>2015-10-17T08:33:44-04:00</dc:date>
+      <pubDate>Sat, 17 Oct 2015 05:33:44 -0700</pubDate>
+      <dc:date>2015-10-17T05:33:44-07:00</dc:date>
     </item>
     <item>
       <title>For A More Optimal Experience</title>
@@ -46,8 +46,8 @@
       <description>&lt;p&gt;A few weeks ago I decided to run the following experiment: for 10 days, I would not use my phone’s native apps and instead I would solely rely on accessing web sites and services through a web browser. Phone: iPhone 6. Browser: Safari. iOS: 8.3. The results were clear, disappointing and outright frustrating.&lt;/p&gt;
 
 </description>
-      <pubDate>Sat, 26 Sep 2015 06:00:09 -0400</pubDate>
-      <dc:date>2015-09-26T06:00:09-04:00</dc:date>
+      <pubDate>Sat, 26 Sep 2015 03:00:09 -0700</pubDate>
+      <dc:date>2015-09-26T03:00:09-07:00</dc:date>
     </item>
     <item>
       <title>Simplifying The Trinity</title>
@@ -57,8 +57,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/2015-06-27-simplifying-the-trinity/trinity.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
-      <pubDate>Sat, 27 Jun 2015 07:24:36 -0400</pubDate>
-      <dc:date>2015-06-27T07:24:36-04:00</dc:date>
+      <pubDate>Sat, 27 Jun 2015 04:24:36 -0700</pubDate>
+      <dc:date>2015-06-27T04:24:36-07:00</dc:date>
     </item>
     <item>
       <title>Replacing iOS Photo Backup with Google Photos</title>
@@ -66,8 +66,8 @@
       <description>&lt;p&gt;Ever since the introduction of iOS Photo Library backup (since iOS 8.1, I believe), I’ve been trying to use it with mixed results.&lt;/p&gt;
 
 </description>
-      <pubDate>Sun, 31 May 2015 00:00:00 -0400</pubDate>
-      <dc:date>2015-05-31T00:00:00-04:00</dc:date>
+      <pubDate>Sun, 31 May 2015 00:00:00 -0700</pubDate>
+      <dc:date>2015-05-31T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>On Docker Monoculture And The Full-Stack Developer</title>
@@ -77,8 +77,8 @@
 &lt;p&gt;Unless you’ve been living in the woods away from all technology going through a Henry David Thoreau phase lately, you have surely heard of &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; a few hundred times already.&lt;/p&gt;
 
 </description>
-      <pubDate>Tue, 12 May 2015 16:47:20 -0400</pubDate>
-      <dc:date>2015-05-12T16:47:20-04:00</dc:date>
+      <pubDate>Tue, 12 May 2015 13:47:20 -0700</pubDate>
+      <dc:date>2015-05-12T13:47:20-07:00</dc:date>
     </item>
     <item>
       <title>PyCon 2015: An Organizer's Perspective</title>
@@ -86,8 +86,8 @@
       <description>&lt;p&gt;As I see more reviews, blog posts and direct email correspondence about PyCon’s successful completion, I want to add to the conversation with a brief narrative about PyCon from an organizer’s perspective.&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 15 Apr 2015 09:32:37 -0400</pubDate>
-      <dc:date>2015-04-15T09:32:37-04:00</dc:date>
+      <pubDate>Wed, 15 Apr 2015 06:32:37 -0700</pubDate>
+      <dc:date>2015-04-15T06:32:37-07:00</dc:date>
     </item>
     <item>
       <title>Let's Be Good PyCon Citizens</title>
@@ -95,8 +95,8 @@
       <description>&lt;p&gt;With PyCon just &lt;a href=&quot;http://iipcy.ws&quot;&gt;around the corner&lt;/a&gt;, I feel it’s very important to take a step back and think about the role we play and resposibilities we bear in the community. I have posited before that while PyCon might have been born out of the community around the language, it has now outgrown and transcended the original idea. We have now people who come to PyCon from all over the world, from different programming backgrounds and some who feel included/welcome in the PyCon community even though they aren’t Python users.&lt;/p&gt;
 
 </description>
-      <pubDate>Sun, 05 Apr 2015 05:54:20 -0400</pubDate>
-      <dc:date>2015-04-05T05:54:20-04:00</dc:date>
+      <pubDate>Sun, 05 Apr 2015 02:54:20 -0700</pubDate>
+      <dc:date>2015-04-05T02:54:20-07:00</dc:date>
     </item>
     <item>
       <title>Don't Train Like You'd Like To Race</title>
@@ -104,8 +104,8 @@
       <description>&lt;p&gt;One of the most often-repeated and professed concepts of distance running goes something like this: “train like you’d want to race, race just like you trained”. While there are good reasons why that advice is often given (specially for beginners), in reality that mindset could hinder your progress and performance at best and at worst could cause burn-out or perhaps even injuries. Please note this blog post is not targeted at first- or second-time marathon runners, but definitely usable by people who self identify as “intermediate” runners (myself included) and more advanced folks.&lt;/p&gt;
 
 </description>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
-      <dc:date>2015-03-12T00:00:00-04:00</dc:date>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 -0700</pubDate>
+      <dc:date>2015-03-12T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>Working From Home</title>
@@ -113,8 +113,8 @@
       <description>&lt;p&gt;Couple of days ago I began working at a new job. Much like my last job, this is one is work-from-home-based (please note I’m deliberately trying to avoid using the word ‘remote’ for reasons I will explain below). However, I never thought the experience would be so dissimilar. While my former team worked &lt;em&gt;very&lt;/em&gt; hard and constantly toward better communication, interaction and teamwork, it always &lt;em&gt;felt&lt;/em&gt; as if there was a big disadvantage in not being physically present in the office: interacting with people outside the team could be &lt;a href=&quot;https://blog.such.computer/posts/the-perils-of-no-reply/&quot;&gt;difficult&lt;/a&gt;, spur-of-the-moment discussions with other groups, ad-hoc meetings, hallway convos, etc. There was always a sense of not-being-there.&lt;/p&gt;
 
 </description>
-      <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
-      <dc:date>2015-02-17T00:00:00-05:00</dc:date>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 -0800</pubDate>
+      <dc:date>2015-02-17T00:00:00-08:00</dc:date>
     </item>
     <item>
       <title>I Made a HOT Thing</title>
@@ -122,8 +122,8 @@
       <description>&lt;p&gt;Over the last few weeks I’ve busy working on a “out-of-the-box” sprint project. The result is an early release of &lt;a href=&quot;https://github.com/rackerlabs/foundry&quot;&gt;Foundry&lt;/a&gt;, which is a more focused and workflow-oriented evolution of another of my side projects, &lt;a href=&quot;https://github.com/rdodev/jsFormation&quot;&gt;jsFormation&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 -0500</pubDate>
-      <dc:date>2015-01-19T00:00:00-05:00</dc:date>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 -0800</pubDate>
+      <dc:date>2015-01-19T00:00:00-08:00</dc:date>
     </item>
     <item>
       <title>For The Joy And Pain Of It</title>
@@ -131,8 +131,8 @@
       <description>&lt;p&gt;This year has been rather strange for me, thus far. Some things have gone right, some things wrong and a lot of in-between. It has also been a period of reflection and deep introspection.&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 14 Jan 2015 00:00:00 -0500</pubDate>
-      <dc:date>2015-01-14T00:00:00-05:00</dc:date>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 -0800</pubDate>
+      <dc:date>2015-01-14T00:00:00-08:00</dc:date>
     </item>
     <item>
       <title>Your First Telescope Should Be A Pair Of Binoculars</title>
@@ -140,8 +140,8 @@
       <description>&lt;p&gt;Very few things captivate the curiosity and imagination of children and adults like outer space. In awe we look up the sky searching for galaxies, planets, satellites, comets, shooting stars and many other space objects. So, when that insatiable curiosity reaches the limits of the human eye, many of us begin our search for tools to satiate that yearning. Telescopes have been the go-to solution for the aspiring astronomer and space enthusiast. However, here I will make the case that your first telescope should not be a telescope at all, but, rather, a good pair of binoculars.&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 31 Dec 2014 12:30:00 -0500</pubDate>
-      <dc:date>2014-12-31T12:30:00-05:00</dc:date>
+      <pubDate>Wed, 31 Dec 2014 12:30:00 -0800</pubDate>
+      <dc:date>2014-12-31T12:30:00-08:00</dc:date>
     </item>
     <item>
       <title>Checking for and Setting Up Forward Secrecy</title>
@@ -149,8 +149,8 @@
       <description>&lt;p&gt;I would like to preface this post by making it abundantly clear that I’m neither a InfoSec expert nor a “hacker” of any sort. If anything, I’m not particularly well versed on this subject, so I’m posting this for both my own edification and sharing the knowledge.&lt;/p&gt;
 
 </description>
-      <pubDate>Sun, 28 Dec 2014 20:45:00 -0500</pubDate>
-      <dc:date>2014-12-28T20:45:00-05:00</dc:date>
+      <pubDate>Sun, 28 Dec 2014 20:45:00 -0800</pubDate>
+      <dc:date>2014-12-28T20:45:00-08:00</dc:date>
     </item>
     <item>
       <title>On Distance Running</title>
@@ -161,8 +161,8 @@
 &lt;/code&gt;&lt;/pre&gt;
 
 </description>
-      <pubDate>Wed, 10 Dec 2014 10:45:00 -0500</pubDate>
-      <dc:date>2014-12-10T10:45:00-05:00</dc:date>
+      <pubDate>Wed, 10 Dec 2014 10:45:00 -0800</pubDate>
+      <dc:date>2014-12-10T10:45:00-08:00</dc:date>
     </item>
     <item>
       <title>When you run a marathon, what do you think about?</title>
@@ -170,8 +170,8 @@
       <description>&lt;p&gt;So, this is a question that is often asked of people when they run marathons: “What do you think about while you’re in the race?” Below is a semi-stream-of-thought what I think about in a race:&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 08 Oct 2014 22:45:00 -0400</pubDate>
-      <dc:date>2014-10-08T22:45:00-04:00</dc:date>
+      <pubDate>Wed, 08 Oct 2014 22:45:00 -0700</pubDate>
+      <dc:date>2014-10-08T22:45:00-07:00</dc:date>
     </item>
     <item>
       <title>PyCon Proposal Form Explained</title>
@@ -179,8 +179,8 @@
       <description>&lt;p&gt;One of the most common questions we get, as organizers, is how does the proposal submission form work, what do all the fields mean, and what are our expectations. Although there are subtle but important differences between the main conference program committee (talks) and the tutorials committee, the explanation below and description of fields and expectations applies to both. One of the main people involved in the conference organizing committee (among a bunch of other important Python things), &lt;a href=&quot;https://twitter.com/lvh&quot;&gt;Laurens Van Houtven&lt;/a&gt;, has eloquently summarized it as follows:&lt;/p&gt;
 
 </description>
-      <pubDate>Sun, 17 Aug 2014 17:45:00 -0400</pubDate>
-      <dc:date>2014-08-17T17:45:00-04:00</dc:date>
+      <pubDate>Sun, 17 Aug 2014 17:45:00 -0700</pubDate>
+      <dc:date>2014-08-17T17:45:00-07:00</dc:date>
     </item>
     <item>
       <title>My Adventures With JavaScript This Week</title>
@@ -188,8 +188,8 @@
       <description>&lt;p&gt;In spite of having programed JS for nearly two decades – to varying degrees, of course: from fiddling with my Geocities home page to full-time front-end development –, it’s one of those languages that tends to break away from the norm, usually not in the expected way. Which is why lately I’ve made a point to RTFM every time I bump into an issue or bug I suspect the language definition has something to do with it.&lt;/p&gt;
 
 </description>
-      <pubDate>Sat, 09 Aug 2014 11:45:00 -0400</pubDate>
-      <dc:date>2014-08-09T11:45:00-04:00</dc:date>
+      <pubDate>Sat, 09 Aug 2014 11:45:00 -0700</pubDate>
+      <dc:date>2014-08-09T11:45:00-07:00</dc:date>
     </item>
     <item>
       <title>Here Are Some Ideas for Your PyCon 2015 Tutorial Proposals</title>
@@ -197,8 +197,8 @@
       <description>&lt;p&gt;As co-chair of PyCon tutorials I get asked fairly often (by both seasoned and novice speakers) for ideas for tutorial proposals. So, in order to make this fair so that anyone tempted to submit a tutorial proposal can take them into consideration, I’m putting these out there for inspiration, if nothing else. Please bear in mind that unlike talks at PyCon, our tutorial format consist of 3-hour sessions with a heavy emphasis on hands-on, applicable, practical and highly interactive approach.&lt;/p&gt;
 
 </description>
-      <pubDate>Tue, 05 Aug 2014 11:45:00 -0400</pubDate>
-      <dc:date>2014-08-05T11:45:00-04:00</dc:date>
+      <pubDate>Tue, 05 Aug 2014 11:45:00 -0700</pubDate>
+      <dc:date>2014-08-05T11:45:00-07:00</dc:date>
     </item>
     <item>
       <title>A Little South of Perfection: Idealism vs. Pragmatism</title>
@@ -210,8 +210,8 @@
 &lt;p&gt;So, I woke up this morning musing about idealism vs. pragmatism in the field of software development – but it also applies elsewhere. Many of us at some point or another have had ideas, concepts, visions for a product, bug fix, enhancement and so forth. Whether due to nature or nurture, we tend to strive for perfection, but that’s a lofty (and often impossible) goal to attain and one that’s likely to discourage you somewhere along the way.&lt;/p&gt;
 
 </description>
-      <pubDate>Thu, 17 Jul 2014 16:50:00 -0400</pubDate>
-      <dc:date>2014-07-17T16:50:00-04:00</dc:date>
+      <pubDate>Thu, 17 Jul 2014 16:50:00 -0700</pubDate>
+      <dc:date>2014-07-17T16:50:00-07:00</dc:date>
     </item>
     <item>
       <title>On Developer Motivation</title>
@@ -220,8 +220,8 @@
 &lt;p&gt;As is usual for these types of posts, I’d like to preface this blog entry with the caveat that the thoughts, situations and anecdotes below are not meant to specifically call someone out or as a backhanded or passive-aggressive way to express discontent. These are simply the accumulation, amalgamation and distillation of my many experiences in the matter with different teams, contexts, and management.&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 02 Jul 2014 20:55:00 -0400</pubDate>
-      <dc:date>2014-07-02T20:55:00-04:00</dc:date>
+      <pubDate>Wed, 02 Jul 2014 20:55:00 -0700</pubDate>
+      <dc:date>2014-07-02T20:55:00-07:00</dc:date>
     </item>
     <item>
       <title>PyCon Tutorial Committee Wants You</title>
@@ -229,8 +229,8 @@
       <description>&lt;p&gt;Every year the PyCon Tutorials Committee is in charge of evaluating, selecting and organizing all the tutorials that take place every year (usually two days and take place right before the conference proper starts). We have to go through tens, if not hundreds, of tutorial proposals spanning a plethora of subject matters.&lt;/p&gt;
 
 </description>
-      <pubDate>Tue, 01 Jul 2014 09:55:00 -0400</pubDate>
-      <dc:date>2014-07-01T09:55:00-04:00</dc:date>
+      <pubDate>Tue, 01 Jul 2014 09:55:00 -0700</pubDate>
+      <dc:date>2014-07-01T09:55:00-07:00</dc:date>
     </item>
     <item>
       <title>The Perils of No Immediate Reply</title>
@@ -239,8 +239,8 @@
 &lt;p&gt;One of the things that the pervades today’s professional life is using email as the main means of communication – specially true for geographically-distributed teams. In spite of all of its merits, email, like any asynchronous form of communication, has a “perceived latency” issue which if not well understood can be a cause of frustration and friction amongst those involved.&lt;/p&gt;
 
 </description>
-      <pubDate>Wed, 25 Jun 2014 09:55:00 -0400</pubDate>
-      <dc:date>2014-06-25T09:55:00-04:00</dc:date>
+      <pubDate>Wed, 25 Jun 2014 09:55:00 -0700</pubDate>
+      <dc:date>2014-06-25T09:55:00-07:00</dc:date>
     </item>
     <item>
       <title>Managing Developer Me</title>
@@ -249,8 +249,8 @@
 &lt;p&gt;First I want to make abundantly clear that this isn’t a back-handed, passive-aggressive way to express my gripes about a specific incident or manager, about my former or present employeer. I would say it’s about the accumulation of facts and experiences in my career up to this point. It is by no means a comprehensive, exhaustive collection, though, only those that I know have had a definite impact in my career.&lt;/p&gt;
 
 </description>
-      <pubDate>Sat, 24 May 2014 13:48:00 -0400</pubDate>
-      <dc:date>2014-05-24T13:48:00-04:00</dc:date>
+      <pubDate>Sat, 24 May 2014 13:48:00 -0700</pubDate>
+      <dc:date>2014-05-24T13:48:00-07:00</dc:date>
     </item>
     <item>
       <title>The Reboot!</title>
@@ -259,9 +259,9 @@
 You can check &lt;a href=&quot;http://rubenoz.blogspot.com&quot;&gt;ye olde blog&lt;/a&gt; out, if you want. If not, no big loss as I’ll probably be cross-referencing posts there if they are relevant.&lt;/p&gt;
 
 </description>
-      <pubDate>Mon, 12 May 2014 14:05:00 -0400</pubDate>
-      <dc:date>2014-05-12T14:05:00-04:00</dc:date>
+      <pubDate>Mon, 12 May 2014 14:05:00 -0700</pubDate>
+      <dc:date>2014-05-12T14:05:00-07:00</dc:date>
     </item>
-    <dc:date>2015-10-20T00:00:00-04:00</dc:date>
+    <dc:date>2015-10-20T00:00:00-07:00</dc:date>
   </channel>
 </rss>
