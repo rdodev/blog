@@ -10,7 +10,6 @@ kramdown:
 highlighter: rouge
 logo: false
 paginate: 15
-#relative_permalinks: true
 permalink: posts/:title
 excerpt_separator: "<!-- more -->"
 year: 2017
