@@ -1,20 +1,22 @@
-name: Between Bastion and Buttress
+name: Don't Read This Blog
 description: "Code, Cloud Computing, Community and Common Sense"
 baseurl: /
 github: rdodev
-twitter: WallOfFire
+twitter: MassHaste
 
 markdown: kramdown
 kramdown:
  input: GFM
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
-relative_permalinks: true
+#relative_permalinks: true
 permalink: posts/:title
 excerpt_separator: "<!-- more -->"
-
+year: 2017
 # Details for the RSS feed generator
 author: 'Ruben Orduz'
-rss_post_limit: 5
-url: rss.xml
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
