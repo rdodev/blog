@@ -10,7 +10,7 @@ kramdown:
 highlighter: rouge
 logo: false
 paginate: 15
-permalink: posts/:title
+permalink: posts/:title.html
 excerpt_separator: "<!-- more -->"
 year: 2017
 # Details for the RSS feed generator
